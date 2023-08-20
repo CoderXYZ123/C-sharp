@@ -1,0 +1,15 @@
+/workspaces/C-sharp/bin/Debug/net7.0/C-sharp
+/workspaces/C-sharp/bin/Debug/net7.0/C-sharp.deps.json
+/workspaces/C-sharp/bin/Debug/net7.0/C-sharp.runtimeconfig.json
+/workspaces/C-sharp/bin/Debug/net7.0/C-sharp.dll
+/workspaces/C-sharp/bin/Debug/net7.0/C-sharp.pdb
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.csproj.AssemblyReference.cache
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.AssemblyInfoInputs.cache
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.AssemblyInfo.cs
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.csproj.CoreCompileInputs.cache
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.dll
+/workspaces/C-sharp/obj/Debug/net7.0/refint/C-sharp.dll
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.pdb
+/workspaces/C-sharp/obj/Debug/net7.0/C-sharp.genruntimeconfig.cache
+/workspaces/C-sharp/obj/Debug/net7.0/ref/C-sharp.dll
